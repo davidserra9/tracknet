@@ -15,7 +15,7 @@ The model pipeline is the following:
 
 All the model justification and results are in the following slides: [SLIDES](https://docs.google.com/presentation/d/1hbSbUkJ5XG_9_Yyj9-YAxtO10loXa0TE8gJzPEHQc4k/edit?usp=sharing)
 
-Or in the following paper (both in pdf and LaTeX format): [PDF](Paper_M6__Video_Surveillance_for_Road_Traffic_Monitoring.pdf) / [LaTeX](https://www.overleaf.com/read/dfvxdmdtwtny)
+Or in the following paper: [Paper]()
 
 ## Car Detection
 
@@ -34,6 +34,8 @@ To do so, the model uses a Triplet Network with ResNet50 as backbone to implemen
 ## Installation
 
 This code is implemented in Python3.6+, [Detectron2](https://github.com/facebookresearch/detectron2) and [Pytorch](https://pytorch.org/)
+
+![gif](data/fasterrcnn/S01-S04/figures/model_example.gif)
 
 ## Run the System
 
