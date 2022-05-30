@@ -15,7 +15,7 @@ The model pipeline is the following:
 
 All the model justification and results are in the following slides: [SLIDES](https://docs.google.com/presentation/d/1hbSbUkJ5XG_9_Yyj9-YAxtO10loXa0TE8gJzPEHQc4k/edit?usp=sharing)
 
-Or in the following paper: [Paper]()
+Or in the following paper: [Paper](https://arxiv.org/abs/2205.13857)
 
 ## Car Detection
 
