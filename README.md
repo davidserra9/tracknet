@@ -63,6 +63,15 @@ So to run *TrackNet* run:
 $ python main.py
 ```
 
+## Citing the paper
+```
+@article{2022tracknet,
+  title={TrackNet: A Triplet metric-based method for Multi-Target Multi-Camera Vehicle Tracking},
+  author={Serrano, David and Net, Francesc and Rodr{\'\i}guez, Juan Antonio and Ugarte, Igor},
+  journal={arXiv preprint arXiv:2205.13857},
+  year={2022}
+}
+```
 
 
 
